@@ -12,7 +12,7 @@ print("""
       3) hello Husky
       To Stop Say
       1) Goodbye
-      2 q
+      2
       """)
 
 # Load the sound file
